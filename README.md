@@ -1,3 +1,9 @@
+In this project it will find the highest score your studnets got. 
+It will first get a list of the student scores and with a for loop it will add them to a list. 
+With another for loop, it will determine if which score is the highest. 
+Then it will print it for you. 
+
+
 ## Highest Score
 
 # UPDATE
